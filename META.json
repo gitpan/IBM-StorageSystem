@@ -32,11 +32,10 @@
       },
       "runtime" : {
          "requires" : {
-            "Net::OpenSSH" : 0,
             "Test::More" : 0
          }
       }
    },
    "release_status" : "stable",
-   "version" : "0.03"
+   "version" : "0.04"
 }
