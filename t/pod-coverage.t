@@ -64,4 +64,4 @@ pod_coverage_ok( 'IBM::StorageSystem::Quota',			{ also_private => [ 'new' ] } );
 pod_coverage_ok( 'IBM::StorageSystem::Replication',		{ also_private => [ 'new' ] } );
 pod_coverage_ok( 'IBM::StorageSystem::VDisk',			{ also_private => [ 'new' ] } );
 pod_coverage_ok( 'IBM::StorageSystem::VDisk::Copy',		{ also_private => [ 'new' ] } );
-#done_testing();
+done_testing();
